@@ -1,6 +1,6 @@
 # Olá, eu sou o Jorge (Elementista) 👋
 
-Um espaço dedicado a tecnologia, manutenção e diagnóstico de hardware, desenvolvimento de utilitários portáteis em Python e JavaScript, além de gameplays e transmissões ao vivo. Aprender sempre!
+Um espaço dedicado a tecnologia, manutenção e diagnóstico de hardware, desenvolvimento de utilitários portáteis em Python e JavaScript. Aprender sempre!
 
 ---
 
@@ -14,7 +14,8 @@ Um espaço dedicado a tecnologia, manutenção e diagnóstico de hardware, desen
 ---
 
 ### 🎮 Meus Principais Projetos
-* 🚀 **[Elementista Browser](https://github.com/elementista/elementista-browser)** - Launcher e Central de Preservação de Jogos em Flash integrado com servidores de Legend Online, Transformice, DragonFable e acervo SWF.
+* 🚀 **[Elementista Browser](https://github.com/elementista/elementista-browser)** - Launcher e Central de Preservação de Jogos em Flash integrado com servidores de Legend Online, Transformice, DragonFable e acervo SWF.*
+* ⚡ **[Elementista Flash Vault](https://github.com/elementista/elementista-flash-vault)** - Cofre portátil e minimalista em Electron para preservação de acervos locais em Flash (.swf) e retroemulação integrada de Atari, Mega Drive e SNES.
 * 🛠️ **[Verificador de Hardware](https://github.com/elementista/verificador-de-hardware)** - Script em Python desenvolvido para diagnóstico de bancada em PCs antigos e testes de desempenho.
 
 ---
@@ -26,7 +27,4 @@ Um espaço dedicado a tecnologia, manutenção e diagnóstico de hardware, desen
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do Elementista](https://vercel.app)
-![Linguagens mais usadas](https://vercel.app)
 
